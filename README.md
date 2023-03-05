@@ -28,7 +28,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Sharda University
 - 🌱 I’m currently exploring Web Development and advanced Data Structures and Algorithms. 
-- 🤔 My interest lies in Computer Vision
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [bharatkharbanda4@gmail.com](mailto:bharatkharbanda4@gmail.com).
 
